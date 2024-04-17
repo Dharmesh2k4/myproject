@@ -1,0 +1,208 @@
+categories:
+- pincode
+- hospitals
+- nearby hospital
+- nearby location
+conversations:
+#near by hospitals
+- - Please Give List of hospitals of my area?
+  - For near by hospital please enter your area`s pincode
+- - Give List of near by hospital?
+  - For near by hospital please enter your area`s pincode
+- - give near by hospital
+  - For near by hospital please enter your area`s 6 digit pincode
+- - near by hospital
+  - For near by hospital please enter your area`s 6 digit pincode
+- - nearby hospital
+  - For near by hospital please enter your area`s 6 digit pincode
+- - nearby location
+  - For near by hospital please enter your area`s 6 digit pincode
+
+#pincode
+- - '382481'
+  - Hospital near Gota 1. Apollo Hospitals City Center, 2. Divine Hospital, 3. Lifeline Multispeciality Hospital. These are the top hospitals in Gota.
+
+- - '380001'
+  - Hospitals in Old Ahmedabad 1. Civil Hospital, 2. Shardaben Hospital, 3. LG Hospital. These are some prominent medical facilities in the area.
+
+- - '380006'
+  - Medical centers in Navrangpura 1. SAL Hospital, 2. Rajasthan Hospital, 3. HCG Cancer Centre. Explore these hospitals in Navrangpura for healthcare needs.
+
+- - '380015'
+  - Healthcare facilities in Satellite 1. Sterling Hospital, 2. Zydus Hospital, 3. CIMS Hospital. Satellite offers access to these top-notch medical institutions.
+
+- - '380009'
+  - Hospitals in Naranpura 1.Apollo Hospitals City Center. , 2.Dr. Bhupendra D Shukla , 3. Dr Sneh Shah's Shri Sharnam Urology Hospital.. provides excellent healthcare services with these hospitals.
+
+- - '380015'
+  - Hospitals in AAMBAVADI 1. Apollo Hospitals City Center, 2. Saksham Psychiatry Hospital And Deaddiction Centre., 3. Niyati Ent Hospital. Naranpura provides excellent healthcare services with these hospitals.
+
+- - '380026'
+  - Hospitals in AMRIWADI 1. Jankalyan Hospital, 2.Panchshil Hospital, 3.Divine Gastro & Liver Hospital..  provides excellent healthcare services with these hospitals.
+
+- - '380024'
+  - Hospitals in BAPUNAGAR 1.Apollo Hospitals City Center , 2.Siddhi Vinayak Surgical Hospital Trauma Center. , 3.Star Hospital. BAPUNAGAR provides excellent healthcare services with these hospitals.
+
+- - '380022'
+  - Hospitals in BEHRAHEMPUR 1.Jagannath Hospital, 2.Aeshrat Nursing Home, 3.Amit Hospital. BEHRAHEMPUR provides excellent healthcare services with these hospitals.
+
+- - '380054'
+  - Hospitals in BODAKDEV 1.Hare Krishna Hospital , 2.Apollo Hospitals City Center. , 3.Shreejee Hospital.BODAKDEV provides excellent healthcare services with these hospitals.
+
+- - '380058'
+  - Hospitals in BOPAL 1.Hare Krishna Hospital. , 2. pollo Hospitals City Center, 3.Marigold Women's Hospital. BOPAL provides excellent healthcare services with these hospitals.
+
+- - '380016'
+  - Hospitals in CIVIL HOSPITAL 1.Chandra-mani Hospital , 2.Arogya Mitra Gujarat , 3. Rajasthan Hospitals. CIVIL HOSPITAL provides excellent healthcare services with these hospitals.
+
+- - '380006'
+  - Hospitals in ELLIS BRIDGE 1.Niyati Ent Hospital , 2.Siddhi Vinayak Hospital. , 3.Mansarovar Hospital. .ELLIS BRIDGE provides excellent healthcare services with these hospitals.
+
+- - '380027'
+  - Hospitals in GANDHI AASHRAM  1.Panchshil Hospital , 2.Marengo CIMS Hospital , 3.Civil Hospital Campus, Ahmedabad .GANDHI AASHRAM provides excellent healthcare services with these hospitals.
+
+- - '380061'
+  - Hospitals in GHATLODIA EW4 1.Shree Chamunda Hospital , 2.Modi Hospital , 3.Amata Multi Speciality Hospital .GHATLODIA provides excellent healthcare services with these hospitals.
+
+- - '380050'
+  - Hospitals in GODASAR 1.Nisha Multispeciality Hospital, 2.Apollo Hospital, 3. Swapn Health Care Hospitals Pvt Ltd.GODASAR provides excellent healthcare services with these hospitals.
+
+- - '380060'
+  - Hospitals in GUJARAT HIGH COURT  1.APPOLO HOSPITAL , 2.OLWEN HOSPITAL , 3.PATEL HOSPITAL .GUJARAT HIGH COURT provides excellent healthcare services with these hospitals.
+
+- - '382443'
+  - Hospitals in ISANPUR  1.Apollo Hospital , 2.Astha Hospital , 3.Kanan Children Hospital .ISANPUR provides excellent healthcare services with these hospitals.
+
+- - '380051'
+  - Hospitals in JIVRAJ PARK  1.Cure 1 Multispeciality Hospital & ICU , 2.Sagar Hospital., 3.Shivam Hospital.  .JIVRAJ PARK provides excellent healthcare services with these hospitals.
+
+- - '380055'
+  - Hospitals in JUHAPURA 1.Mahavir Hospital , 2.Gangotri Orthopaedic Hospital  , 3.Savalia Kidney Gynec and Surgical Hospital .JUHAPURA provides excellent healthcare services with these hospitals.
+
+- - '382430'
+  - Hospitals in KATHVADA M.P.  1.Divine Multi Facility Hospital. , 2.Tatahstu Hospital. , 3.Shri Sanjivani Hospital. KATHVADA provides excellent healthcare services with these hospitals.
+
+- - '380008'
+  - Hospitals in MANINAGAR  1.Sharda Surgical Hospital. , 2.Denta Care , 3.Siddhi Vinayak Hospital. .MANINAGAR provides excellent healthcare services with these hospitals.
+
+- - '380052'
+  - Hospitals in MEMNAGAR 1.Modi Hospital. , 2.Parth Hospital, 3.Tej Hospital.  .MEMNAGAR provides excellent healthcare services with these hospitals.
+
+- - '380013'
+  - Hospitals in Naranpoura vistar 1.DR SNEH SHAH'S HOSPITAL , 2.SPANDAN HOSPITAL , 3.KRISHNA HOSPITAL .NARANG POURA vistar provides excellent healthcare services with these hospitals.
+
+- - '382330'
+  - Hospitals in Naroda I.E. 1.Pramukh ICU  , 2.Apollo Hospitals , 3.Mahavir Hospital. .Naroda provides excellent healthcare services with these hospitals.
+
+- - '380014'
+  - Hospitals in Navjivan  1.Marengo CIMS Hospital , 2.Shalby Multi-Specialty Hospitals , 3.Life Care - Best Multispeciality HospitaL .Navjivan provides excellent healthcare services with these hospitals.
+
+- - '382415'
+  - Hospitals in Odhav I.E.  1.Apollo Hospitals , 2.Siddhi Vinayak Surgical Hospital , 3.Shreejee Hospital.Odhav provides excellent healthcare services with these hospitals.
+
+- - '380007'
+  - Hospitals in Paldi 1.Cure 1 Multispeciality Hospital & ICU. , 2.Apollo Hospitals City Center., 3. Saksham Psychiatry Hospital And Deaddiction Centre..Paldi provides excellent healthcare services with these hospitals.
+
+- - '380019'
+  - Hospitals in Railway coloney 1.Apollo Hospitals , 2.Siddhi Vinayak Surgical Hospital , 3.Shreejee Hospital.Railway coloney provides excellent healthcare services with these hospitals.
+
+- - '380002'
+  - Hospitals in Railwaypura 1.Apollo Hospitals , 2.Siddhi Vinayak Surgical Hospital , 3.Shreejee Hospital.Railwaypura provides excellent healthcare services with these hospitals.
+
+- - '380021'
+  - Hospitals in rajpur gomtipur 1.Siddhi Vinayak Surgical Hospital , 2.Arogya Mitra Gujarat. , 3.Narayana Multispeciality Hospital rajpur provides excellent healthcare services with these hospitals.
+
+- - '380023'
+  - Hospitals in Rakhial Udyhog Vistar 1.Siddhi Vinayak Surgical Hospital  , 2. Narayana Multispeciality Hospital, 3.Param Children Hospital. .Rakhial Udyhog Vistar provides excellent healthcare services with these hospitals.
+
+- - '380005'
+  - Hospitals in sabarmati 1.Panchshil Hospital , 2.Sentara Multispeciality Hospital. , 3.Satyamev Hospital Pvt Ltd. .sabarmati provides excellent healthcare services with these hospitals.
+
+- - '382345'
+  - Hospitals in saijpur bogha 1.Karnavati Superspeciality Hospital  , 2.ANAND SURGICAL HOSPITAL PVT LTD , 3.Sunrise Hospital .saijpur bogha provides excellent healthcare services with these hospitals.
+
+- - '380018'
+  - Hospitals in saraspur 1.Aayat Children Hospital , 2.Narayana Multispeciality Hospital , 3.Gcs Medical Hospital .saraspur provides excellent healthcare services with these hospitals.
+
+- - '382475'
+  - Hospitals in sardar nagar 1.Apollo Hospitals City Center , 2. Kothari Maternity Home, 3.Shivansh Hospital . sardar nagar provides excellent healthcare services with these hospitals.
+
+- - '380028'
+  - Hospitals in shah alam roja 1.Sharda Surgical Hospital. , 2.Family Care Medical Children & Heart Hospital., 3.Care And Cure Multispeciality Hospital .shah alam roja provides excellent healthcare services with these hospitals.
+
+- - '380004'
+  - Hospitals in shahibag 1.Shuddhi Hiims Ayurvedic Clinics And Hospitals , 2.Chandra-mani Hospital, 3.Jainee Surgical Hospital .shahibag provides excellent healthcare services with these hospitals.
+
+- - '382350'
+  - Hospitals in Thakkar bapa nagar 1.Apollo Hospitals City Center. , 2.Savalia Kidney Gynec and Surgical Hospital. , 3.Little Star Children Hospital. .Thakkar bapa nagar provides excellent healthcare services with these hospitals.
+
+- - '380059'
+  - Hospitals in thaltej 1.Hare Krishna Hospital, 2.Parth Hospital. , 3.Zydus Hospitals. .thaltej provides excellent healthcare services with these hospitals.
+
+- - '383325'
+  - Hospitals in Boyad 1.Patel Hospital And Trauma Centre , 2.Patel Orthopedic Hospital , 3Ankur Hospital.Boyad provides excellent healthcare services with these hospitals.
+
+- - '382213'
+  - Hospitals in changodar 1.Astha Hospital., 2.Shreejee Hospital , 3.Ram Multispacility Hospital. .changodar provides excellent healthcare services with these hospitals.
+
+- - '385001'
+  - Hospitals in Disa 1.Jagruti Hospital. , 2.Shubh Hospital Deesa , 3.Mohan Eye Hospital .Disa provides excellent healthcare services with these hospitals.
+
+- - '384240'
+  - Hospitals in Harij 1.INDEX COLLAGE AND HOSPITALS , 2.AGRAWAL HOSPITAL , 3.MAA REVA HOSPITAL .Harij provides excellent healthcare services with these hospitals.
+
+- - '383001'
+  - Hospitals in Himatnagar 1.Shreeji Gynec Hospital. , 2.Neuro Plus Brain and Spine Surgical Hospital , 3.Keshav Hospital Dr Poorav Patel Md Psychiatrists.  .Himatnagar provides excellent healthcare services with these hospitals.
+
+- - '383430'
+  - Hospitals in idar 1.Atma Vallabh Hospital , 2.Trivedi Hospital. , 3.Kuldeep Hospital .idar provides excellent healthcare services with these hospitals.
+
+- - '382721'
+  - Hospitals in kalol  1.Namo'Stute Hospitals , 2. RADHE MULTISPECIALITY HOSPITAL., 3.Advanced Super Speciality Hospitals. .kalol provides excellent healthcare services with these hospitals.
+
+- - '382725'
+  - Hospitals in kalol I.E. 1.Namo'Stute Hospitals , 2. RADHE MULTISPECIALITY HOSPITAL., 3.Advanced Super Speciality Hospitals.kalol I.E provides excellent healthcare services with these hospitals.
+
+- - '382845'
+  - Hospitals in Mansa 1.Maan Hospital , 2.Deepika Maternity Center & Hospital. , 3.Aatma Ram Eye Hospital.   Mansa provides excellent healthcare services with these hospitals.
+
+- - '384001'
+  - Hospitals in Mehsana 1.Soham Multispeciality Hospital. , 2.Neha Medical and Heart Hospital , 3.Deep Icu and Hospital. .Mehsana provides excellent healthcare services with these hospitals.
+
+- - '384002'
+  - Hospitals in Mehsana I.E. 1.Soham Multispeciality Hospital. , 2.Neha Medical and Heart Hospital , 3.Deep Icu and Hospital. .Mehsana i.e. provides excellent healthcare services with these hospitals.
+
+
+- - '384003'
+  - Hospitals in Mehsana ONGC  1.Soham Multispeciality Hospital. , 2.Neha Medical and Heart Hospital , 3.Deep Icu and Hospital. .Mehsana ongc provides excellent healthcare services with these hospitals.
+
+- - '383315'
+  - Hospitals in Modasa 1.Raj Ent Hospital. , 2.Aravalli Institute Of Medical Sciences , 3.Swar Women'S HospitaL .Modasa provides excellent healthcare services with these hospitals.
+
+- - '383001'
+  - Hospitals in palanpur 1.Upvan Hospital & IVF Center.  , 2.Medipolis Life Care (Kidney Hospital) , 3.Khushi Children Hospital. .palanpur provides excellent healthcare services with these hospitals.
+
+- - '384265'
+  - Hospitals in patan 1.Agrawal Hospital. , 2.Mishri Hospital And IUI Center , 3.Rachana Womens Hospital.patan provides excellent healthcare services with these hospitals.
+
+- - '383205'
+  - Hospitals in prantij 1. Dr. Shukal Brothers Dental Hospital., 2.Phc Majara. , 3. Nirvana Hospital.prantij provides excellent healthcare services with these hospitals.
+
+- - '385340'
+  - Hospitals in Radhanpur 1.Bhansali Trusts Hospital. , 2.Janta Hospital. , 3.Shraddha Hospital. .Radhanpur provides excellent healthcare services with these hospitals.
+
+- - '384151'
+  - Hospitals in siddhpur 1.Agrawal Hospital. , 2. Mishri Hospital And IUI Center, 3.Syeda Itrat Fatema Hospital  .siddhpur provides excellent healthcare services with these hospitals.
+
+- - '384170'
+  - Hospitals in Unja 1.Soham Multispeciality Hospital.  , 2.Nutan Hospital , 3.Maa Uma Multispecialiti Hospital Unjha .Unja provides excellent healthcare services with these hospitals.
+
+- - '382870'
+  - Hospitals in Vijapur 1.DHRUVA MULTISPECIALITY HOSPITAL , 2.HOPE HOSPITAL , 3.KHUSHI MULTIPLUS HOSPITAL .Vijapur provides excellent healthcare services with these hospitals.
+
+- - '384315'
+  - Hospitals in Visnagar 1.Utkarsh Hospital And I.C.U. , 2.Aakash Eye Hospital. , 3.Jyoti Hospital.Visnagar provides excellent healthcare services with these hospitals.
+
+- - default
+  - I'm sorry, I couldn't find a specific response to your query.
+

@@ -1,0 +1,123 @@
+for react you have to install
+
+# For React, React Router, and Axios
+npm install react react-router-dom axios
+
+# For Font Awesome
+npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+
+
+for login server
+npm init -y
+npm i mysql express cors nodemon
+create a file server.js 
+
+
+for backend
+python version Python 3.7.0 required
+pip install flask
+pip install chatterbot==1.0.4
+pip install flask-cors
+pip install nltk
+pip install chatterbot-corpus
+
+
+
+
+message.js
+
+
+Certainly! Let's break down the code to understand which APIs are used and what each function does:
+
+State Initialization:
+
+state includes chat (for storing chat messages), msg (for the user's input message), and isListening (to track whether the microphone is actively listening).
+Speech Recognition Setup:
+
+recognition is an instance of the Web Speech API's SpeechRecognition interface. It is configured to listen for speech recognition events and is set up in the componentDidMount lifecycle method.
+The recognition configuration includes setting it to not be continuous, not produce interim results, and use the English language.
+Speech Synthesis Setup:
+
+speechSynthesis is an instance of the Web Speech API's SpeechSynthesis interface. It is used for text-to-speech synthesis.
+startListening and stopListening:
+
+These functions toggle the isListening state and start or stop the speech recognition accordingly.
+handleSpeechResult:
+
+This function is called when speech recognition produces a result. It extracts the transcript from the recognition result and sets it in the component's state as the user's input message.
+handleChange:
+
+This function updates the msg state as the user types in the input field.
+handleKeyPress:
+
+This function is triggered when a key is pressed. If the key is "Enter," it prevents the default behavior (e.g., submitting a form) and calls sendChatMessage.
+sendChatMessage:
+
+This function sends the user's input message (msg) to a server endpoint using Axios (axios.post). It then adds the user's message and the server's response to the chat state.
+Additionally, it uses the Web Speech API (SpeechSynthesisUtterance) to read the server's response out loud.
+Rendering:
+
+The render method displays the chat messages, input field, send button, and the microphone button.
+The chat messages are mapped over the chat state to display user and server messages with distinct styles.
+The microphone button toggles between the start and stop icons based on the isListening state.
+Styling:
+
+Inline styles are used to style the chat messages, input field, and buttons.
+Component Export:
+
+The Message component is exported for use in other parts of the application.
+In summary, this component creates a chat interface where users can input text or use speech recognition. The input is sent to a server, and the server's response is read out loud using the Web Speech API. The chat messages are displayed with styling based on the sender (user or server). The component also includes buttons to start/stop speech recognition and send messages.
+
+
+
+
+
+
+
+Errors:
+
+
+
+Backend:
+File "C:/Users/vaghe/FinalProject/Chatbot Backend/Healthbot/chatbot.py", line 9, in <module>
+    bot = ChatBot('chatterbot', storage_adapter="chatterbot.storage.SQLStorageAdapter")
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\chatterbot\chatterbot.py", line 28, in __init__
+    self.storage = utils.initialize_class(storage_adapter, **kwargs)
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\chatterbot\utils.py", line 33, in initialize_class
+    return Class(*args, **kwargs)
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\chatterbot\storage\sql_storage.py", line 20, in __init__
+    super().__init__(**kwargs)
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\chatterbot\storage\storage_adapter.py", line 23, in __init__
+    'tagger_language', languages.ENG
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\chatterbot\tagging.py", line 20, in __init__
+    import spacy
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\spacy\__init__.py", line 12, in <module>
+    from .cli.info import info as cli_info
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\spacy\cli\__init__.py", line 1, in <module>
+    from .download import download  # noqa: F401
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\spacy\cli\download.py", line 5, in <module>
+    import requests
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\__init__.py", line 43, in <module>
+    import urllib3
+  File "C:\Users\vaghe\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\__init__.py", line 42, in <module>
+    "urllib3 v2.0 only supports OpenSSL 1.1.1+, currently "
+ImportError: urllib3 v2.0 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'OpenSSL 1.1.0h  27 Mar 2018'. See: https://github.com/urllib3/urllib3/issues/2168
+
+Process finished with exit code 1
+
+Solution:
+pip install chatterbot==1.0.4
+
+if still geting error please watch video from provided link and install some packages which present in python pack folder
+Link :https://www.youtube.com/watch?v=_eIH97OmjD0&t=877s
+
+
+
+
+Front-end error
+install some module for it :
+ 
+npm install react-icons
+npm install rect
+
+still have error mail me on :vagheladharmesh.imscit21@gmail.com

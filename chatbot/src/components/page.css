@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: darkblue;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left h1 {
+  margin: 0;
+}
+
+.header-right nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-right nav a {
+  text-decoration: none;
+  color: white;
+  margin-right: 15px;
+}
+
+.middle-section {
+  height: 100vh;
+  background: url('./bot_wall.jpg') no-repeat center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-section {
+  flex: 1; /* Distribute available space equally */
+  text-align: left;
+}
+
+.footer-section h2 {
+  margin-bottom: 10px;
+}

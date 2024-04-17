@@ -1,0 +1,30 @@
+categories:
+- Find diseases
+- find deases
+conversations:
+#find diseases
+- - i have some problem
+  - can you please tell me some symptoms of problem
+- - i am not feel well
+  - can you please tell me some symptoms of problem
+- - i have health problem
+  - can you please tell me some symptoms of problem
+- - help me to find diseases
+  - can you please tell me some symptoms of problem
+
+- - fever,headache
+  - If You have high fever then please go to near by hospital for near by hospital enter pincode
+
+- - fever,cold
+  - This can be the bacis symptoms of flu , i will suggest you to vist your area near by hospital for near by hospital please enter your areas pincode.
+- - fever,cold,cough,
+  - This can be the bacis symptoms of flu , i will suggest you to vist your area near by hospital for near by hospital please enter your areas pincode.
+
+- - fever,cold,cough,headache
+  - This can be the bacis symptoms of flu , i will suggest you to vist your area near by hospital for near by hospital please enter your areas pincode.
+
+- - fever,night sweats,rash,joint pain
+  - This can be the bacis symptoms of Hiv , i will suggest you to vist your area near by hospital for near by hospital please enter your areas pincode.
+
+- - default
+  - I'm sorry, I couldn't find a specific response to your query.
